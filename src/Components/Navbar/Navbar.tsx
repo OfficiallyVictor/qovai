@@ -4,7 +4,7 @@ import './Navbar.css'
 const Navbar = () => {
   return (
    <header className="header">
-   
+    <p>Qovai</p>
    </header>
   )
 }

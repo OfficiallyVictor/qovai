@@ -8,7 +8,9 @@ const Navbar = () => {
     <p>Qovai</p>
     <div className="headerside">
         <span>
-            <p></p>
+            <p className='sideheader'>platform</p>
+            <p className='sideheader'>Resources</p>
+            <p className='sideheader'>Pricing</p>
         </span>
     </div>
     </div>
